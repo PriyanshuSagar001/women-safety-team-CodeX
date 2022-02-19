@@ -1,0 +1,6 @@
+this ia application for crime reducting
+google api
+rating bar
+icon
+search bar
+colours
